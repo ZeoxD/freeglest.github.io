@@ -53,7 +53,8 @@ html, body
 .navbar-inverse .navbar-nav li a.active {
    
    color: white !important;
-   font-size: 102%;
+   font-size: 115% !important;
+   background-color: #111;
 
 }
 
